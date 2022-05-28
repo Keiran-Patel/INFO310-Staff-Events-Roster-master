@@ -1,5 +1,7 @@
 # Staff Roster
 
+Being a staff member in the InfoSci department often requires the organization of events (e.g., the tertiary open day, TOD). When creating an event, it is also useful to create a schedule for the event and assign potential staff to work at certain times in that event. Could you develop a web-app that can create events and a staff roaster based on the schedule of the event?
+
 Please download the latest release from one of these locations:
 
 - https://isgb.otago.ac.nz/info310/daniel/roaster/build/93/workspace/roster/java/build/distributions/roster.zip
